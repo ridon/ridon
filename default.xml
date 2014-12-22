@@ -52,7 +52,7 @@
   <project path="device/generic/mini-emulator-arm64" name="device/generic/mini-emulator-arm64" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
-  <project path="device/ridon/emulator_x86" name="ridon-device-ridon-emulator_x86" groups="pdk" remote="ridon-remote" revision="ridon-5.0" />
+  <project path="device/ridon/emulator_x86" name="ridon/ridon-device-ridon-emulator_x86" groups="pdk" remote="ridon-remote" revision="ridon-5.0" />
   <project path="device/generic/mini-emulator-x86_64" name="device/generic/mini-emulator-x86_64" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="device/generic/qemu" name="device/generic/qemu" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
