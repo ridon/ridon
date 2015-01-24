@@ -3,4 +3,5 @@ ridon
 
 Ridon is mobile operating system built on top of Replicant, CyanogenMod and Android Open Source Project. Ridon is part of BlankOn Project.
 
-At the moment we only have something in our [wiki] (https://github.com/ridon/ridon/wiki)
+## Devices
+At the moment we only support a few devices. Please visit our [wiki] (https://github.com/ridon/ridon/wiki) and see the list of the devices on the right side menu.
