@@ -464,7 +464,7 @@ fetch="https://github.com"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <!-- project path="packages/apps/Settings" name="platform/packages/apps/Settings" / -->
-  <project path="packages/apps/Settings" remote="cyanogen" revision="cm-12.0" name="CyanogenMod/android_packages_apps_Settings" />
+  <project path="packages/apps/Settings" remote="ridon-remote" revision="ridon-5.0" name="ridon/ridon-packages-apps-Settings" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
