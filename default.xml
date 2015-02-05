@@ -46,7 +46,7 @@ fetch="https://github.com"/>
   <project path="art" name="platform/art" groups="pdk" />
   <project path="bionic" name="platform/bionic" groups="pdk" />
 
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" revision="cm-12.0" remote="cyanogen" groups="pdk" />
+  <project path="bootable/recovery" name="ridon/ridon-bootable-recovery" revision="ridon-5.0" remote="ridon-remote" groups="pdk" />
 
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" />
