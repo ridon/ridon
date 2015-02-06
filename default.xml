@@ -47,6 +47,8 @@ fetch="https://github.com"/>
   <project path="bionic" name="platform/bionic" groups="pdk" />
 
   <project path="bootable/recovery" name="ridon/ridon-bootable-recovery" revision="ridon-5.0" remote="ridon-remote" groups="pdk" />
+  <project path="frameworks/base" name="ridon/ridon-frameworks-base" remote="ridon-remote" revision="ridon-5.0"/>
+  <project path="frameworks/native" name="ridon/ridon-frameworks-native" remote="ridon-remote" revision="ridon-5.0"/>
 
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" />
@@ -315,7 +317,6 @@ fetch="https://github.com"/>
   <!-- project path="frameworks/av" name="platform/frameworks/av" groups="pdk" / -->
   <!-- project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs" / -->
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="cyanogen" revision="cm-12.0"/>
-  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="cyanogen" revision="cm-12.0"/>
 
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
@@ -325,8 +326,6 @@ fetch="https://github.com"/>
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk-cw-fs" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs" />
-  <!-- project path="frameworks/native" name="platform/frameworks/native" groups="pdk" / -->
-  <project path="frameworks/native" name="MoKee/android_frameworks_native" remote="mokee" revision="mkl"/>
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" />
   <project path="frameworks/opt/bluetooth" name="platform/frameworks/opt/bluetooth" groups="pdk-cw-fs" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" groups="pdk-cw-fs" />
