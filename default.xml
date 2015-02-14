@@ -50,6 +50,8 @@ fetch="https://github.com"/>
   <project path="frameworks/base" name="ridon/ridon-frameworks-base" remote="ridon-remote" revision="ridon-5.0"/>
   <project path="frameworks/native" name="ridon/ridon-frameworks-native" remote="ridon-remote" revision="ridon-5.0"/>
 
+  <project path="packages/providers/ContactsProvider" name="ridon-packages-providers-ContactsProvider" groups="pdk-cw-fs" remote="ridon-remote=" revision="ridon-5.0"/>
+
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" />
   <project path="developers/build" name="platform/developers/build" />
@@ -480,7 +482,6 @@ fetch="https://github.com"/>
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" groups="pdk-cw-fs" />
-  <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" groups="pdk-cw-fs" />
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" groups="pdk-cw-fs" />
   <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" groups="pdk-cw-fs" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
