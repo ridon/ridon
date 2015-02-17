@@ -50,7 +50,7 @@ fetch="https://github.com"/>
   <project path="frameworks/base" name="ridon/ridon-frameworks-base" remote="ridon-remote" revision="ridon-5.0"/>
   <project path="frameworks/native" name="ridon/ridon-frameworks-native" remote="ridon-remote" revision="ridon-5.0"/>
 
-  <project path="packages/providers/ContactsProvider" name="ridon-packages-providers-ContactsProvider" groups="pdk-cw-fs" remote="ridon-remote=" revision="ridon-5.0"/>
+  <project path="packages/providers/ContactsProvider" name="ridon-packages-providers-ContactsProvider" groups="pdk-cw-fs" remote="ridon-remote" revision="ridon-5.0"/>
 
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" />
