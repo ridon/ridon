@@ -426,7 +426,7 @@ fetch="https://github.com"/>
   <project path="packages/apps/BluetoothExt" remote="cyanogen" revision="cm-12.0" name="CyanogenMod/android_packages_apps_BluetoothExt" />
 
   <project path="packages/apps/Browser" name="ridon/ridon-packages-apps-Browser" revision="ridon-5.0" remote="ridon-remote"/>
-  <project path="packages/apps/Email" name="ridon-packages-apps-Email" remote="ridon-remote" revision="ridon-5.0" />
+  <project path="packages/apps/Email" name="ridon/ridon-packages-apps-Email" remote="ridon-remote" revision="ridon-5.0" />
 
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
