@@ -429,6 +429,7 @@ fetch="https://github.com"/>
 
   <project path="packages/apps/Browser" name="ridon/ridon-packages-apps-Browser" revision="ridon-5.0" remote="ridon-remote"/>
   <project path="packages/apps/Email" name="ridon/ridon-packages-apps-Email" remote="ridon-remote" revision="ridon-5.0" />
+  <project path="packages/apps/Launcher3" name="ridon/ridon-packages-apps-Launcher3" remote="ridon-remote" revision="ridon-5.0" />
 
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
@@ -451,7 +452,6 @@ fetch="https://github.com"/>
   <!-- project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" / -->
   <project path="packages/apps/InCallUI" remote="cyanogen" revision="cm-12.0" name="CyanogenMod/android_packages_apps_InCallUI" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" remote="ridon-remote" revision="ridon-5.0" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" />
   <project path="packages/apps/Mms" remote="cyanogen" revision="cm-12.0" name="CyanogenMod/android_packages_apps_Mms" />
