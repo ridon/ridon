@@ -52,6 +52,8 @@ fetch="https://github.com"/>
 
   <project path="packages/providers/ContactsProvider" name="ridon/ridon-packages-providers-ContactsProvider" groups="pdk-cw-fs" remote="ridon-remote" revision="ridon-5.0"/>
 
+  <project path="packages/ridon/ridon-artwork" name="ridon/ridon-artwork" remote="ridon-remote" revision="ridon-5.0"/>
+
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" />
   <project path="developers/build" name="platform/developers/build" />
