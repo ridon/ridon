@@ -27,7 +27,7 @@ fetch="https://github.com"/>
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/tags/android-5.0.2_r1"
+  <default revision="refs/tags/android-5.1.0_r1"
            remote="aosp"
            clone-depth="1"
            sync-c="true"
@@ -426,11 +426,11 @@ fetch="https://github.com"/>
   <project path="hardware/qcom/media-caf/msm8974" remote="mokee" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8974" />
   <project path="hardware/qcom/media-caf/msm8916" remote="mokee" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8916" />
   <project path="hardware/qcom/media-caf/msm8660" remote="mokee" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8660" />
-  <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
-  <project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" groups="qcom_msm8x26" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
-  <project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" groups="qcom_msm8x27" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
-  <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
-  <project path="hardware/qcom/msm8x84" name="platform/hardware/qcom/msm8x84" groups="qcom_msm8x84" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
+  <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
+  <project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" groups="qcom_msm8x26" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
+  <project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" groups="qcom_msm8x27" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
+  <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
+  <project path="hardware/qcom/msm8x84" name="platform/hardware/qcom/msm8x84" groups="qcom_msm8x84" remote="aosp" revision="refs/tags/android-5.1.0_r1" />
 
 
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" />
