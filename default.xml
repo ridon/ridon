@@ -17,7 +17,7 @@
 
   <remote  name="ridon"
            fetch="https://github.com/ridon"
-           revision="7.1.1" />
+           revision="ridon-7.1.1" />
 
   
   <remote  name="aex-devices"
