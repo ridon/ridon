@@ -14,6 +14,11 @@
   <remote  name="ex"
            fetch="https://github.com/AospExtended"
            revision="7.1.1" />
+
+  <remote  name="ridon"
+           fetch="https://github.com/ridon"
+           revision="7.1.1" />
+
   
   <remote  name="aex-devices"
            fetch="https://github.com/AospExtended-Devices"
@@ -29,7 +34,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="vendor/aosp" name="platform_vendor_aosp" remote="ex" />
-  <project path="packages/apps/Settings" name="platform_packages_apps_Settings" groups="pdk-fs" remote="ex" />
+  <project path="packages/apps/Settings" name="platform_packages_apps_Settings" groups="pdk-fs" remote="ridon" />
   <project path="packages/apps/Extensions" name="platform_packages_apps_Extensions" groups="pdk-fs" remote="ex" />
   <project path="packages/apps/AEXOTA" name="platform_packages_apps_AEXOTA" groups="pdk-fs" remote="ex" />
   <project path="packages/apps/AEXPapers" name="platform_packages_apps_AEXPapers" groups="pdk-fs" remote="ex" />
