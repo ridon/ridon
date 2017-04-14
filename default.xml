@@ -20,7 +20,7 @@
 
   <!-- AOSP Projects -->
 
-  <project path="build" name="ridon/android_build" groups="pdk,tradefed">
+  <project path="build" name="ridon/android_build" groups="pdk,tradefed" remote="github" revision="ridon-7.1.1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" remote="aosp" />
