@@ -19,7 +19,6 @@
            sync-j="4" />
 
   <!-- AOSP Projects -->
-
   <project path="build" name="LineageOS/android_build" groups="pdk,tradefed">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
