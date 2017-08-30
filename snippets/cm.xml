@@ -48,7 +48,7 @@
   <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" />
   <project path="packages/apps/ThemeChooser" name="LineageOS/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Launcher3" name="ridon/ridon_Launcher" revision="ridon-7.1.2" />
-  <project path="packages/apps/Updater" name="LineageOS/android_packages_apps_Updater" />
+  <project path="packages/apps/Updater" name="ridon/android_packages_apps_Updater" revision="ridon-7.1.2" />
   <project path="packages/providers/DataUsageProvider" name="LineageOS/android_packages_providers_DataUsageProvider" />
   <project path="packages/providers/ThemesProvider" name="LineageOS/android_packages_providers_ThemesProvider" />
   <project path="packages/providers/WeatherProvider" name="LineageOS/android_packages_providers_WeatherProvider" />
