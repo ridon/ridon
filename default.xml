@@ -6,7 +6,7 @@
            review="review.lineageos.org" />
 
   <remote  name="private"
-           fetch="ssh://git@github.com" />
+           fetch="ssh://git@gitlab.ridon.id" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
@@ -14,7 +14,7 @@
            revision="refs/tags/android-7.1.2_r36" />
 
   <remote  name="ridon-remote"
-      fetch="https://github.com"
+      fetch="https://gitlab.ridon.id"
            clone-depth="1"
            />
          
